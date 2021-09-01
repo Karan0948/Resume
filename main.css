@@ -621,15 +621,13 @@ button:focus {
     }
 
     #my-details-container {
-        width: 80%;
-        margin: 10%;
-        position: center;
+        width: 50%;
+        margin: 10%; 
     }
 
     #contact-form-container {
-        width: 80%;
-        margin: 10%;
-        position: center;
+        width: 50%;
+        margin: 10%; 
     }
 
 }
