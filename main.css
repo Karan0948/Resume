@@ -621,8 +621,9 @@ button:focus {
     }
 
     #my-details-container {
-        width: 25%;
+        width: 80%;
         margin: 10%;
+        position: center;
     }
 
     #contact-form-container {
