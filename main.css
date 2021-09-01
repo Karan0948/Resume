@@ -402,7 +402,7 @@ section:nth-child(2n + 1) {
 }
 
 #my-details-container {
-    width: 90%;
+    width: 40%;
     margin-left: 6%;
 }
 
@@ -621,12 +621,12 @@ button:focus {
     }
 
     #my-details-container {
-        width: 50%;
+        width: 80%;
         margin: 10%; 
     }
 
     #contact-form-container {
-        width: 50%;
+        width: 80%;
         margin: 10%; 
     }
 
